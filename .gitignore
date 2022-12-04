@@ -1,0 +1,10 @@
+#ignore all files which end with .json, .md or .txt
+*.json
+*.txt
+*.md
+
+#ignore specific files
+.prettierrc
+
+#ignore everything in the node_module
+node_modules/
