@@ -18,3 +18,5 @@ day 10 : This one was fun, not really hard. I especially liked the second part. 
 
 day 11 : I resolved the first part without parsing, only by writing by hand the input, because I was more interested to get immediatly to the heart of the problem. I'm having fun with classes. It took me a long time, but only because I made small mistakes that were hard to track, I got the reasonning down pretty quickly. I'll do the parsing later! Probably.
 I didn't understand at all what was asked in the second part ! So I did a quick search on google to see what we were supposed to do. But I didn't steal any code.
+
+day 12 : I used the BFS algorithm for the first part. It's the first one which took me more than 4 hours to code. But it's because I spent the first 3 on a different approach. I learned a lot today
