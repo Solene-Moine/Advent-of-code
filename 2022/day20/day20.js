@@ -101,7 +101,7 @@ let circularArray = new CircularArray(inputs)
 circularArray.mix();
 
 console.log((circularArray.valueAfter0(1000) + circularArray.valueAfter0(2000) + circularArray.valueAfter0(3000)));
-
+//part 2 is lower than 22274064304085
  
 var endTime = performance.now()
 console.log(`Call to doSomething took ${endTime - startTime} milliseconds`)
